@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "menu": "Home",
+      "path": "/"
+    },
+    {
+      "id": "2",
+      "menu": "Comparison",
+      "path": "/"
+    },
+    {
+      "id": "3",
+      "menu": "Deals",
+      "path": "/"
+    },
+    {
+      "id": "4",
+      "menu": "Featured",
+      "path": "/"
+    },
+    {
+      "id": "5",
+      "menu": "Laptops",
+      "path": "/"
+    },
+    {
+      "id": "6",
+      "menu": "News",
+      "path": "/"
+    },
+    {
+      "id": "7",
+      "menu": "Reviews",
+      "path": "/"
+    },
+    {
+      "id": "8",
+      "menu": "Videos",
+      "path": "/"
+    },
+    {
+      "id": "9",
+      "menu": "Contact",
+      "path": "/contact"
+    }
+  ]

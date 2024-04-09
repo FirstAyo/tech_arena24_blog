@@ -4,11 +4,13 @@ import About from "./pages/About"
 import Contact from "./pages/Contact"
 import Dashboard from "./pages/Dashboard"
 import PrivacyPolicy from "./pages/PrivacyPolicy"
+import Header from "./components/Header"
 
 function App() {
   return (
     <div>
       <BrowserRouter>
+      <Header />
       <Routes>
         <Route path="/" element = {<Home />} />
         <Route path="about" element = {<About />} />
