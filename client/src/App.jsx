@@ -5,6 +5,7 @@ import Contact from "./pages/Contact"
 import Dashboard from "./pages/Dashboard"
 import PrivacyPolicy from "./pages/PrivacyPolicy"
 import Header from "./components/Header"
+import Signup from "./pages/Signup"
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="contact" element = {<Contact />} />
         <Route path="dashboard" element = {<Dashboard />} />
         <Route path="privacy-policy" element = {<PrivacyPolicy />} />
+        <Route path="sign-up" element = {<Signup />} />
       </Routes>
       </BrowserRouter>
     </div>
